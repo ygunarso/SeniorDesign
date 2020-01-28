@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491696702956",
+    "firebase_url": "https://biahomeenergy.firebaseio.com",
+    "project_id": "biahomeenergy",
+    "storage_bucket": "biahomeenergy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491696702956:android:10ef5f8a390b86a90facc9",
+        "android_client_info": {
+          "package_name": "com.example.seniordesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491696702956-n32ga1iq35fmkvq43j3vf02c10u0igvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB217v0ObPWCZ4J3mqZ0FMiFaZk0kfhpUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491696702956-n32ga1iq35fmkvq43j3vf02c10u0igvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

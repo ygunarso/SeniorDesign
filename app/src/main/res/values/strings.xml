@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bia Home Energy Management System</string>
+    <string name="username">name</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="usernamePrompt">Enter name</string>
+    <string name="passwordPrompt">Enter password</string>
+    <string name="emailPrompt">Enter email</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="forgotPassword">FORGOT PASSWORD</string>
+    <string name="activityHome">HomeActivity</string>
+    <string name="activityRegister">RegisterActivity</string>
+    <string name="home">Home</string>
+    <string name="devices">Devices</string>
+    <string name="settings">Settings</string>
+    <string name="signOut">SIGN OUT</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Hello,\ </string>
+    <string name="appliances">Appliances</string>
+    <string name="summary">Summary</string>
+</resources>
